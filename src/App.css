@@ -31,6 +31,7 @@ nav ul{
     display: flex;
     list-style: none;
     gap: 24px;
+    
 }
 
 button{
@@ -41,6 +42,7 @@ button{
     color: white;
     font-weight: 500;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 
@@ -77,6 +79,7 @@ button{
 
 .hero-btn button{
     font-size: 24px;
+    cursor: pointer;
 }
 
 .secondary-btn{
